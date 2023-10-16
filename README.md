@@ -1,4 +1,4 @@
-### Contributing to Open Source Documentation Checklist
+## Contributing to Open Source Documentation Checklist
 
 - **Community and Collaboration**
   - [ ] Does my project have a community section?
