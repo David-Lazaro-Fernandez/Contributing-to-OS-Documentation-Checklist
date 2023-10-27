@@ -12,7 +12,7 @@
 
 - **Feedback and Improvement**
   - [x] Does the documentation have an option for adding feedback or comments?
-  - [ ] Is there a way to gather metrics to measure the quality of the documentation?
+  - [x] Is there a way to gather metrics to measure the quality of the documentation?
   - [ ] Are community reviews and improvements of the documentation encouraged?
 
 - **Accessibility and Search**
