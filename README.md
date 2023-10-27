@@ -6,8 +6,8 @@
   - [ ] Are clear guidelines provided for first-time contributors?
 
 - **Documentation Structure**
-  - [ ] Does the documentation have a logical and easily navigable structure?
-  - [ ] Is a table of contents offered for quick reference?
+  - [x] Does the documentation have a logical and easily navigable structure?
+  - [x] Is a table of contents offered for quick reference?
   - [ ] Are there clear and relevant examples in the documentation?
 
 - **Feedback and Improvement**
@@ -18,7 +18,7 @@
 - **Accessibility and Search**
   - [ ] Is the documentation easily searchable?
   - [ ] Are alternative formats of the documentation provided (like downloadable PDF, offline version)?
-  - [ ] Is the documentation optimized for mobile devices and different browsers?
+  - [x] Is the documentation optimized for mobile devices and different browsers?
 
 - **Updating and Maintenance**
   - [ ] Is there an established process to keep the documentation up-to-date?
