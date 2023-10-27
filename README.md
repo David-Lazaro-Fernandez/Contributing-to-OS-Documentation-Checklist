@@ -18,7 +18,7 @@
 - **Accessibility and Search**
   - [ ] Is the documentation easily searchable?
   - [ ] Are alternative formats of the documentation provided (like downloadable PDF, offline version)?
-  - [ ] Is the documentation optimized for mobile devices and different browsers?
+  - [X] Is the documentation optimized for mobile devices and different browsers?
 
 - **Updating and Maintenance**
   - [X] Is there an established process to keep the documentation up-to-date?
