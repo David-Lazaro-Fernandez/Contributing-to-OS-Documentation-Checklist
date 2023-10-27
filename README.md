@@ -3,7 +3,7 @@
 - **Community and Collaboration**
   - [ ] Does my project have a community section?
   - [ ] Is there a code of conduct established for contributors?
-  - [ ] Are clear guidelines provided for first-time contributors?
+  - [x] Are clear guidelines provided for first-time contributors?
 
 - **Documentation Structure**
   - [ ] Does the documentation have a logical and easily navigable structure?
