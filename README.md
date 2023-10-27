@@ -3,7 +3,7 @@
 - **Community and Collaboration**
   - [ ] Does my project have a community section?
   - [ ] Is there a code of conduct established for contributors?
-  - [ ] Are clear guidelines provided for first-time contributors?
+  - [x] Are clear guidelines provided for first-time contributors?
 
 - **Documentation Structure**
   - [ ] Does the documentation have a logical and easily navigable structure?
@@ -13,7 +13,7 @@
 - **Feedback and Improvement**
   - [ ] Does the documentation have an option for adding feedback or comments?
   - [ ] Is there a way to gather metrics to measure the quality of the documentation?
-  - [ ] Are community reviews and improvements of the documentation encouraged?
+  - [x] Are community reviews and improvements of the documentation encouraged?
 
 - **Accessibility and Search**
   - [ ] Is the documentation easily searchable?
