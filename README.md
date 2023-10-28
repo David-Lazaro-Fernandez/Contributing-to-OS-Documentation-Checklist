@@ -16,9 +16,9 @@
   - [x] Are community reviews and improvements of the documentation encouraged?
 
 - **Accessibility and Search**
-  - [ ] Is the documentation easily searchable?
+  - [x] Is the documentation easily searchable?
   - [ ] Are alternative formats of the documentation provided (like downloadable PDF, offline version)?
-  - [ ] Is the documentation optimized for mobile devices and different browsers?
+  - [x] Is the documentation optimized for mobile devices and different browsers?
 
 - **Updating and Maintenance**
   - [ ] Is there an established process to keep the documentation up-to-date?
